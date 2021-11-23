@@ -4,7 +4,7 @@
 
 Rainbow Drift is Moosepark Studio's debut racing video game, made with custom-crafted 3D models, UI textures, and audio-tracks. 
 
-This game was 2+ years in the making with lots of redesigns in between. In total, I wrote about 15,000+ lines of code for this project (as the sole programmer on the team). Learn more about the game's development at our company website [here](https://mooseparkstudios.net/).
+This game was 2+ years in the making with lots of redesigns in between. In total, I wrote about 15,000+ lines of C# code for this project (as the sole programmer on the team). Learn more about the game's development at our company website [here](https://mooseparkstudios.net/).
 
 ## Homepage
 <img src="https://user-images.githubusercontent.com/17485488/143135144-28db056e-1fb8-4ba9-b3c9-2eab6d8c420d.jpeg" width="200px"/>
